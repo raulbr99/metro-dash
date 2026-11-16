@@ -1,6 +1,6 @@
 # Metro Dash
 
-A 3D endless runner in a single HTML file, with no libraries and no assets. **Play it:** https://raulbr99.github.io/metro-dash/
+A 3D endless runner in a single HTML file, with no libraries and no assets. **Play it:** https://metro-dash-qwen.vercel.app/
 
 It was written by **Qwen4-Max** (Alibaba) from one prompt ([prompt.txt](prompt.txt)), on 16-11-2026, in 19 minutes and 23 turns, for $0.67. The model ran inside Claude Code with file tools only: no browser, no shell, no web. It never opened the game while making it.
 
