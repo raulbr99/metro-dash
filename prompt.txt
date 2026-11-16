@@ -1,0 +1,21 @@
+Make a fast, fun 3D endless runner in a single HTML file, with nothing
+external: no libraries, no CDNs and no assets, so write the WebGL yourself.
+
+You are a small maintenance robot escaping along an elevated metro line
+above a city at sunset. A sweeper drone chases you. Three lanes: swipe or
+press left/right to change lane, up to jump, down to slide. Trains come at
+you in all lanes, some parked, some moving towards you; low barriers you
+jump, high ones you slide under. You can run on top of train roofs and
+reach them with ramps. Hit something once and the drone closes in; hit
+again before it backs off and it catches you.
+
+Collect energy sparks along the track. Two power-ups: a magnet that pulls
+sparks in, and a shield that absorbs one hit. Speed keeps rising, so a
+good run lasts about 2 minutes. Show score, sparks and best score
+(saved locally); restart is instant.
+
+Make it feel great: smooth lane changes, camera behind and slightly
+above, speed lines, screen shake on hits, satisfying sounds made with
+Web Audio. Works on desktop (arrow keys or WASD) and on mobile (swipes),
+and lowers quality automatically if the frame rate drops. All text in
+English.
